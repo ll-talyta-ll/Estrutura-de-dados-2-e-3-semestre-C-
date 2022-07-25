@@ -1,0 +1,5 @@
+﻿  f jean.cpp
+C:\Users\Clovis\source\repos\f jean\f jean\f jean.cpp(18,23): warning C4018: '<': incompatibilidade de signed/unsigned
+  Staticstack.cpp
+  Gerando Código...
+  f jean.vcxproj -> C:\Users\Clovis\source\repos\f jean\Debug\f jean.exe
