@@ -1,0 +1,72 @@
+﻿  Prova 1 - ESTRUTURA DE DADOS.cpp
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(3,20): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(3,14): error C2146: erro de sintaxe: ';' ausente antes do identificador 'Create'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(4,1): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(4,1): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(9,28): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(9,40): error C2062: tipo 'char' inesperado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(10,1): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(10,1): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(22,32): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(22,32): error C2143: erro de sintaxe: ',' ausente antes de '&'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(24,9): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(31,28): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(32,1): error C2448: 'Dequeue': inicializador function-style parece ser uma definição de função
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(67,26): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(68,1): error C2448: 'Front': inicializador function-style parece ser uma definição de função
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(99,29): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(99,29): error C2143: erro de sintaxe: ',' ausente antes de '&'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(101,9): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(104,28): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(104,28): error C2143: erro de sintaxe: ',' ausente antes de '&'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(106,16): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(106,39): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(109,26): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(110,1): error C2448: 'Clear': inicializador function-style parece ser uma definição de função
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(17,15): error C2146: erro de sintaxe: ';' ausente antes do identificador 'queue'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(17,15): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(17,23): error C3861: 'Create': identificador não encontrado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(33,13): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(33,5): error C3861: 'Enqueue': identificador não encontrado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(38,22): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(45,20): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(51,23): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(57,23): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(63,22): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(69,11): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(72,8): error C2059: erro de sintaxe: ':'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(73,4): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(74,13): warning C4129: 'L': sequência de escape de caractere não reconhecida
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(74,13): warning C4129: 'M': sequência de escape de caractere não reconhecida
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(74,13): warning C4129: 'N': sequência de escape de caractere não reconhecida
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(74,13): warning C4129: 'O': sequência de escape de caractere não reconhecida
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(74,13): warning C4129: 'P': sequência de escape de caractere não reconhecida
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(74,13): warning C4129: 'Q': sequência de escape de caractere não reconhecida
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(74,13): warning C4129: 'R': sequência de escape de caractere não reconhecida
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS.cpp(77,27): error C2065: 'queue': identificador não declarado
+  StaticQueueS.cpp
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(3,20): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(3,14): error C2146: erro de sintaxe: ';' ausente antes do identificador 'Create'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(4,1): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(4,1): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(9,28): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(9,40): error C2062: tipo 'char' inesperado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(10,1): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(10,1): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(22,32): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(22,32): error C2143: erro de sintaxe: ',' ausente antes de '&'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(24,9): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(31,28): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(32,1): error C2448: 'Dequeue': inicializador function-style parece ser uma definição de função
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(67,26): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(68,1): error C2448: 'Front': inicializador function-style parece ser uma definição de função
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(99,29): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(99,29): error C2143: erro de sintaxe: ',' ausente antes de '&'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(101,9): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(104,28): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(104,28): error C2143: erro de sintaxe: ',' ausente antes de '&'
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(106,16): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(106,39): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(109,26): error C2065: 'queue': identificador não declarado
+C:\Users\Clovis\source\repos\Prova 1 - ESTRUTURA DE DADOS\Prova 1 - ESTRUTURA DE DADOS\StaticQueueS.cpp(110,1): error C2448: 'Clear': inicializador function-style parece ser uma definição de função
+  Gerando Código...
